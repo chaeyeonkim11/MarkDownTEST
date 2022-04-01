@@ -23,7 +23,54 @@
 ㅁㄴㅇㄹ
 ㅁㄴㅇㄹ
 ㄴㅁㅇㄹ
-ㅁㄴㅇㄹ
+ㅁㄴㅇㄹ  
+
+---
+---
+
+1. asdfasfd  
+1. asdfasdf
+    1. asfsdafasdf
+    > asfsadf  
+    asdfsadfsadf  
+    asdfsadfsadf  
+    asdfsadfasdf
+    >> asdfasfas  
+    asdfsdafa
+    asdfasdf  
+    asdfasdf  
+    1. asdfsadf
+
+1. adsfsdaf
+
+- asdfasdf
+- asdfsadf
+- asdfasdf
+
+```html
+<html>
+    <title>
+      </title>
+</html>
+```
+
+
+link: [google](www.google.com "go goo")
+
+
+
+
+[googlelink]: https://google.com "Go google"
+
+
+
+![대체텍스트](https://s.pstatic.net/static/www/img/uit/sp_main_dba1af.png)
+
+
+jkjk;l
+jiojio
+
+
 
 
 
